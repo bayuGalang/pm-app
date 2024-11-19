@@ -390,7 +390,7 @@
                             <img src="../assets/img/small-logos/logo-xd.svg" class="avatar avatar-sm rounded-circle me-2" alt="xd">
                           </div>
                           <div class="my-auto">
-                            <h6 class="mb-0 text-sm">Adobe XD</h6>
+                            <h6 class="mb-0 text-sm">Adobe X</h6>
                           </div>
                         </div>
                       </td>
@@ -470,5 +470,6 @@
       </div>
     </div>
   </main>
+
   
   @endsection
